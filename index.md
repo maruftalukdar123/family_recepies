@@ -2,6 +2,6 @@
 
 Family recepies passed down by grandma
 
--Pizzas (TO DO)
--Sauces (TO DO)
+-Piszas (TO DO)
+-Sauses (TO DO)
 -Spread (TO DO)
